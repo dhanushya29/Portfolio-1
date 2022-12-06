@@ -431,7 +431,10 @@ body.offcanvas {
   width: 100%;
   height: 600px;
   margin-bottom: 30px; }
-
+.img_bg_2 {
+  width: 100%;
+  height : 600px;
+}
 .about-desc h3 {
   font-size: 18px;
   text-transform: uppercase;
